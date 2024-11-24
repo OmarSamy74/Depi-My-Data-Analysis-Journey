@@ -2,7 +2,7 @@
 
 ## About Me  
 
-I am **Omar Samy**, a **Communication and Information Engineering student** at Zewail City of Science and Technology. I am passionate about harnessing data to drive innovation and create impactful solutions. As the **CEO and Founder of StatCom**, I specialize in data analysis and web development, empowering organizations with data-driven insights. Additionally, I serve as **CTO and PM** at 1Q Stats, focusing on revolutionizing football data analytics.  
+I am **Omar Samy**, a **Communication and Information Engineering student** at Zewail City of Science and Technology. I am passionate about harnessing data to drive innovation and create impactful solutions. As the **CEO and Founder of StatCom**, I specialize in data analysis and web development, empowering organizations with data-driven insights. Additionally, I serve as **CTO and PM** at IQ Stats, focusing on revolutionizing football data analytics.  
 
 With a strong foundation in **SQL**, **Python**, **data analysis**, and **web development**, I am dedicated to delivering customized technology solutions while continually growing as a professional in the field of data science.  
 
